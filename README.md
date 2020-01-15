@@ -1,0 +1,1 @@
+# this is blog crud application for the basic understanding of asp.net core api and simple angular 8 all the major curd operation are performed here using all the methods like get, put,post and delete
